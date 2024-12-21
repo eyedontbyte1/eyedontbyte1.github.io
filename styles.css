@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    background-color: #6a4f92; /* Purple header */
+    background-color: #000000; /* Purple header */
     color: #f9f9f9;
     padding: 10px 0;
 }
@@ -66,7 +66,7 @@ nav {
 
 .hero {
     text-align: center;
-    padding: 50px 20px;
+    padding: 25px 20px;
     background-color: #6a4f92; /* Purple background */
     color: #f9f9f9;
 }
@@ -82,7 +82,7 @@ nav {
 
 footer {
     text-align: center;
-    background-color: #6a4f92; /* Purple footer */
+    background-color: #000000; /* Purple footer */
     color: #f9f9f9;
     padding: 10px 0;
     margin-top: 20px;
